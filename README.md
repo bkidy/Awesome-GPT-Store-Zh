@@ -14,7 +14,7 @@
 
 
 
-![](https://chatgpt-1318721054.cos.ap-nanjing.myqcloud.com/gpts/avatar/Video-Script-Writer.png)
+![](https://chatgpt-1318721054.cos.ap-nanjing.myqcloud.com/gpts/avatarVideo-Script-Writer.png)
 
 # GPT商店应用：视频剧本创作师
 
@@ -35,8 +35,7 @@ you come up with ideas, your hook, and entire script. - by Ben Bowden
 
 Welcome Message: Hello
 
-**传送门：** 👉[点我直达](https://www.glbai.com/sites/video-script-writer-in-gpt-
-store.html) 
+**传送门：** 👉[点我直达](https://www.glbai.com/sites/video-script-writer-in-gpt-store.html) 
 
 ***
 
@@ -61,8 +60,7 @@ images. - by Leslie Russell
 
 Welcome Message: Hi! Upload a product image, and I'll compare prices for you!
 
-**传送门：** 👉[点我直达](https://www.glbai.com/sites/price-is-right-bot-3000-in-gpt-
-store.html) 
+**传送门：** 👉[点我直达](https://www.glbai.com/sites/price-is-right-bot-3000-in-gpt-store.html) 
 
 ***
 
@@ -86,8 +84,7 @@ Data field job interviewer
 
 Welcome Message: Welcome to your data role interview. Choose a role to begin
 
-**传送门：** 👉[点我直达](https://www.glbai.com/sites/data-interviewer-in-gpt-
-store.html) 
+**传送门：** 👉[点我直达](https://www.glbai.com/sites/data-interviewer-in-gpt-store.html) 
 
 ***
 
@@ -163,8 +160,7 @@ A stoic philosopher offering wise counsel - by weship.com
 
 Welcome Message: Greetings, seeker of wisdom.
 
-**传送门：** 👉[点我直达](https://www.glbai.com/sites/marcus-the-wise-in-gpt-
-store.html) 
+**传送门：** 👉[点我直达](https://www.glbai.com/sites/marcus-the-wise-in-gpt-store.html) 
 
 ***
 
@@ -190,8 +186,7 @@ An assistant for annotating and improving fiction writing, chapter by chapter.
 Welcome Message: Hi! Do you wish for suggestive expansions or annotations, or
 a balance of both?
 
-**传送门：** 👉[点我直达](https://www.glbai.com/sites/chapter-enhancer-in-gpt-
-store.html) 
+**传送门：** 👉[点我直达](https://www.glbai.com/sites/chapter-enhancer-in-gpt-store.html) 
 
 ***
 
@@ -242,8 +237,7 @@ Mason“技术奇才”哈特利是一位经验丰富的DevOps工程师，他在
 
 Welcome Message:
 
-**传送门：** 👉[点我直达](https://www.glbai.com/sites/mason-techwiz-hartley-in-gpt-
-store.html) 
+**传送门：** 👉[点我直达](https://www.glbai.com/sites/mason-techwiz-hartley-in-gpt-store.html) 
 
 ***
 
@@ -270,8 +264,7 @@ store.html)
 Welcome Message: Welcome! Let's build your article outline.
 
 **传送门：**
-👉[点我直达](https://www.glbai.com/sites/%e8%a8%98%e4%ba%8b%e6%a7%8b%e6%88%90%e6%a1%88%e4%bd%9c%e6%88%90%e3%82%a6%e3%82%a3%e3%82%b6%e3%83%bc%e3%83%89-in-
-gpt-store.html) 
+👉[点我直达](https://www.glbai.com/sites/%e8%a8%98%e4%ba%8b%e6%a7%8b%e6%88%90%e6%a1%88%e4%bd%9c%e6%88%90%e3%82%a6%e3%82%a3%e3%82%b6%e3%83%bc%e3%83%89-in-gpt-store.html) 
 
 ***
 
@@ -295,8 +288,7 @@ Analyzes body language in photos. - by PleIQ Smart Toys SpA
 
 Welcome Message: Hi there! Let's analyze some body language.
 
-**传送门：** 👉[点我直达](https://www.glbai.com/sites/body-language-interpreter-in-gpt-
-store.html) 
+**传送门：** 👉[点我直达](https://www.glbai.com/sites/body-language-interpreter-in-gpt-store.html) 
 
 ***
 
@@ -320,8 +312,7 @@ Empathetic and humorous AI therapist - by Clary
 
 Welcome Message: Ready to chat with a smile and an open heart!
 
-**传送门：** 👉[点我直达](https://www.glbai.com/sites/mindful-ai-therapist-in-gpt-
-store.html) 
+**传送门：** 👉[点我直达](https://www.glbai.com/sites/mindful-ai-therapist-in-gpt-store.html) 
 
 ***
 
@@ -372,8 +363,7 @@ Welcome Message: Let's fuel your business ambitions! Ask away and feel the
 push, 起業しろ！
 
 **传送门：**
-👉[点我直达](https://www.glbai.com/sites/%e8%b5%b7%e6%a5%ad%e3%81%97%e3%82%8d-in-
-gpt-store.html) 
+👉[点我直达](https://www.glbai.com/sites/%e8%b5%b7%e6%a5%ad%e3%81%97%e3%82%8d-in-gpt-store.html) 
 
 ***
 
@@ -400,8 +390,7 @@ Emil I Cohen
 
 Welcome Message: Hello
 
-**传送门：** 👉[点我直达](https://www.glbai.com/sites/radioembo-scholar-in-gpt-
-store.html) 
+**传送门：** 👉[点我直达](https://www.glbai.com/sites/radioembo-scholar-in-gpt-store.html) 
 
 ***
 
@@ -453,8 +442,7 @@ follow-ups. - by H Boneschans
 Welcome Message: Welcome! Inspired by Lou Gerstner, let me help you navigate
 business challenges. What can I assist you with today?
 
-**传送门：** 👉[点我直达](https://www.glbai.com/sites/gerstners-supportive-guide-in-
-gpt-store.html) 
+**传送门：** 👉[点我直达](https://www.glbai.com/sites/gerstners-supportive-guide-in-gpt-store.html) 
 
 ***
 
@@ -495,8 +483,7 @@ some house. It's dark and scary here. Help me escape. - by vyacheslav legostin
 
 Welcome Message: Can you feel the chill of the Ravenscroft Estate?
 
-**传送门：** 👉[点我直达](https://www.glbai.com/sites/escape-the-ravenscroft-mansion-
-in-gpt-store.html) 
+**传送门：** 👉[点我直达](https://www.glbai.com/sites/escape-the-ravenscroft-mansion-in-gpt-store.html) 
 
 ***
 
@@ -524,8 +511,7 @@ Ostendorf
 Welcome Message: Hello! I'm here to help you create tweets that get noticed.
 Here are quick tips for better reach
 
-**传送门：** 👉[点我直达](https://www.glbai.com/sites/advanced-tweet-composer-in-gpt-
-store.html)
+**传送门：** 👉[点我直达](https://www.glbai.com/sites/advanced-tweet-composer-in-gpt-store.html)
 
  ***
 
@@ -550,8 +536,7 @@ store.html)
 Welcome Message: Welcome to Kyoto's virtual gateway!
 
 **传送门：**
-👉[点我直达](https://www.glbai.com/sites/%e4%ba%ac%e9%83%bd%e8%a6%b3%e5%85%89%e6%a1%88%e5%86%85%e3%80%8cai%e8%88%9e%e5%a6%93%e3%81%af%e3%82%93%e3%80%8d-in-
-gpt-store.html) 
+👉[点我直达](https://www.glbai.com/sites/%e4%ba%ac%e9%83%bd%e8%a6%b3%e5%85%89%e6%a1%88%e5%86%85%e3%80%8cai%e8%88%9e%e5%a6%93%e3%81%af%e3%82%93%e3%80%8d-in-gpt-store.html) 
 
 ***
 
@@ -733,8 +718,7 @@ Your personal guide from story inception to published book. - by ammaar.me
 
 Welcome Message: Welcome to your storybook journey!
 
-**传送门：** 👉[点我直达](https://www.glbai.com/sites/sparkle-the-storybook-maker-in-
-gpt-store.html)
+**传送门：** 👉[点我直达](https://www.glbai.com/sites/sparkle-the-storybook-maker-in-gpt-store.html)
 
  ***
 
@@ -783,8 +767,7 @@ provides corrections. - by HEUIKYOO MOON
 Welcome Message: Hello
 
 **传送门：**
-👉[点我直达](https://www.glbai.com/sites/%ed%95%9c%ea%b8%80-%eb%a7%9e%ec%b6%a4%eb%b2%95-%ea%b2%80%ec%82%ac%ea%b8%b0-korean-
-input-checker-in-gpt-store.html) 
+👉[点我直达](https://www.glbai.com/sites/%ed%95%9c%ea%b8%80-%eb%a7%9e%ec%b6%a4%eb%b2%95-%ea%b2%80%ec%82%ac%ea%b8%b0-korean-input-checker-in-gpt-store.html) 
 
 ***
 
