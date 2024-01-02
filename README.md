@@ -1,4 +1,4 @@
-## 有趣的 GPTs 推荐--By BaiBaiGPTs
+## 有趣的 GPTs 推荐--By BeBeGPTs
 
 会不定期地推送一些有趣的 GPTs 上来跟大家一起分享。
 
